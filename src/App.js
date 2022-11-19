@@ -1,11 +1,19 @@
 import React from 'react';
-import './style.css'
+import './style.css';
+
+import Navbar from './components/Navbar';
+import Card from './components/Card';
 
 
 function App() {
   return (
-    <div className="">
-      <h1>Hello</h1>
+    <div className="container">
+
+      <Navbar />
+
+        <Card />
+
+
     </div>
   );
 }

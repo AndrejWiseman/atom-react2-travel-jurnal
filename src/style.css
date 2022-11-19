@@ -6,4 +6,53 @@
 
 body {
     font-family: 'Poppins', sans-serif;
+    background-color: #E5E5E5;
+    color: #2B283A;
+    /*color: #918E9B;*/
+
 }
+
+.container {
+    max-width: 550px;
+    margin: 50px auto;
+    background-color: #ffffff;
+
+    border:1px  solid red;
+}
+
+
+/*------ Navbar -----*/
+.navbar {
+    background-color: #F55A5A;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px;
+}
+.naslov {
+
+}
+.globus {
+    margin-right: 10px;
+    font-size: 1.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
