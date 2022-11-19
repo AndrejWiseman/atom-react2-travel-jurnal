@@ -1,0 +1,77 @@
+
+export default [
+    {
+        id: 1,
+        image: 'img18.jpg',
+        title: 'Vukovar Water Tower',
+        location:'Croatia',
+        map: 'https://www.google.com/maps/place/Vukovar+Water+Tower/@45.3449879,19.0183124,14.66z/data=!4m5!3m4!1s0x475c8f9a46816eb7:0xea53aa5de440356c!8m2!3d45.3442104!4d19.0122442?hl=bs',
+        description: 'My hometown Vukovar. In the heart of Europe. Vukovar is an old baroque city, known for the terrible destruction during the war in Yugoslavia in 90s. Among very attractive, but badly damaged buildings in the war, the castle of the Eltz family from the 18th century, the baroque buildings in the center of the city...',
+    },
+
+    {
+        id: 2,
+        image: 'img8.jpeg',
+        title: 'Belgrade Temple of Saint Sava',
+        location:'Serbia',
+        map: 'https://www.google.com/maps/place/Hram+Svetog+Save/@44.7981382,20.4668581,17z/data=!3m1!4b1!4m5!3m4!1s0x475a700ca7258e8f:0xbe11391a6fc0344c!8m2!3d44.7982534!4d20.4690204?hl=bs',
+        description: 'It is the largest Orthodox church in Serbia, one of the largest Eastern Orthodox churches and it ranks among the largest churches in the world. It is the most recognisable building in Belgrade and a landmark, as its dominating dome resembles that of the Hagia Sophia, after which it had been modelled.',
+    },
+    {
+        id: 3,
+        image: 'img6.jpeg',
+        title: 'Kravica Waterfall',
+        location:'Bosnia and Herzegovina',
+        map: 'https://www.google.com/maps/place/Vodopad+Kravica/@43.1623403,17.6018057,12.13z/data=!4m5!3m4!1s0x0:0xf6bd890e2045e895!8m2!3d43.15602!4d17.6081011?hl=bs',
+        description: 'Kravica Waterfall is a large tufa cascade on the Trebižat River, in the karstic heartland of Herzegovina in Bosnia and Herzegovina. Its height is about 25 metres (80 ft) and the radius of the lake in the base of the waterfall is 120 metres (390 ft). Kravica is a popular swimming and picnic area and, during the summer, it is frequently visited by tourists.',
+    },
+    {
+        id: 4,
+        image: 'img2.jpeg',
+        title: 'Hungary Wheat Fields',
+        location:'Hungary',
+        map: 'https://www.google.com/maps/place/Ma%C4%91arska/@47.139257,17.2619078,7z/data=!3m1!4b1!4m5!3m4!1s0x4741837bdf37e4c3:0xc4290c1e1010!8m2!3d46.9999242!4d19.5996094?hl=bs',
+        description: 'Somewhere in the middle of Hungarian wheat fiels....',
+    },
+    {
+        id: 5,
+        image: 'img1.jpeg',
+        title: 'Stonehenge',
+        location:'United Kingdom',
+        map: 'https://www.google.com/maps/place/Stonehenge/@51.178882,-1.826215,15z/data=!4m5!3m4!1s0x0:0x979170e2bcd3d2dd!8m2!3d51.178882!4d-1.826215?hl=bs',
+        description: 'Stonehenge is a prehistoric monument on Salisbury Plain in Wiltshire, England, two miles (3 km) west of Amesbury. It consists of an outer ring of vertical sarsen standing stones, each around 13 feet (4.0 m) high, seven feet (2.1 m) wide, and weighing around 25 tons, topped by connecting horizontal lintel stones. Inside is a ring of smaller bluestones. Archaeologists believe that Stonehenge was constructed from 3000 BC to 2000 BC.',
+    },
+    {
+        id: 6,
+        image: 'img3.jpg',
+        title: 'Kotor Bay',
+        location:'Montenegro',
+        map: 'https://www.google.com/maps/place/Kotor,+Crna+Gora/@42.430469,18.7678832,17z/data=!4m5!3m4!1s0x134c33063d70c91b:0x7a73f15e212e9306!8m2!3d42.424662!4d18.771234?hl=bs',
+        description: 'The old Mediterranean port of Kotor is surrounded by fortifications built during the Venetian period. It is located on the Bay of Kotor (Boka Kotorska), one of the most indented parts of the Adriatic Sea. Some have called it the southernmost fjord in Europe, but it is a ria, a submerged river canyon. Together with the nearly overhanging limestone cliffs of Orjen and Lovćen, Kotor and its surrounding area form an impressive landscape.',
+    },
+    {
+        id: 7,
+        image: 'img9.jpeg',
+        title: 'London Eye',
+        location:'United Kingdom',
+        map: 'https://www.google.com/maps/place/lastminute.com+London+Eye/@51.5032973,-0.1195537,15z/data=!4m5!3m4!1s0x0:0x4291f3172409ea92!8m2!3d51.5032973!4d-0.1195537?hl=bs',
+        description: 'The London Eye, or the Millennium Wheel, is a cantilevered observation wheel on the South Bank of the River Thames in London. It is Europe\'s tallest cantilevered observation wheel, and is the most popular paid tourist attraction in the United Kingdom with over 3 million visitors annually.[15] It has made many appearances in popular culture.',
+    },
+    {
+        id: 8,
+        image: 'img7.jpeg',
+        title: 'Mostar Old Bridge',
+        location:'Bosnia and Herzegovina',
+        map: 'https://www.google.com/maps/place/Stari+Most+Mostar/@43.3372849,17.8150151,15z/data=!4m5!3m4!1s0x0:0x1c6e123b0a2fc4c4!8m2!3d43.3372849!4d17.8150151?hl=bs',
+        description: 'Stari Most , also known as Mostar Bridge, is a rebuilt 16th-century Ottoman bridge in the city of Mostar in Bosnia and Herzegovina that crosses the river Neretva and connects the two parts of the city. The bridge is considered an exemplary piece of Balkan Islamic architecture and was commissioned by Suleiman the Magnificent in 1557. It was designed by Mimar Hayruddin, a student and apprentice of architect Mimar Sinan who built many of the Sultans key buildings in Istanbul and around the empire.',
+    },
+    {
+        id: 9,
+        image: 'img13.jpg',
+        title: 'Trogir',
+        location:'croatia',
+        map: 'https://www.google.com/maps/place/Trogir,+Hrvatska/@43.5279437,16.2589264,14z/data=!3m1!4b1!4m5!3m4!1s0x1335420993dd42f7:0x8395754b009b5daa!8m2!3d43.516387!4d16.2501894?hl=bs',
+        description: 'Trogir is a town on the central Adriatic coast of Croatia. Its preserved old town, known for its mix of Renaissance, baroque and Romanesque buildings, lies on a small island connected to the mainland and the island of Čiovo by bridges. The 13th-century Cathedral of St. Lawrence houses the Renaissance Chapel of St. John and offers sweeping views from its bell tower. Parts of the medieval city walls remain intact. Since 1997, the historic centre of Trogir has been included in the UNESCO list of World Heritage Sites for its Venetian architecture.',
+    },
+
+]

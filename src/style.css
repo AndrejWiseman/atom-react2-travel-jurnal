@@ -8,16 +8,14 @@ body {
     font-family: 'Poppins', sans-serif;
     background-color: #E5E5E5;
     color: #2B283A;
-    /*color: #918E9B;*/
-
 }
 
 .container {
-    max-width: 550px;
+    max-width: 950px;
     margin: 50px auto;
     background-color: #ffffff;
 
-    border:1px  solid red;
+    /*border:1px  solid red;*/
 }
 
 
@@ -37,16 +35,66 @@ body {
 }
 
 
+/*---- Card ----*/
+.slika {
+    width: 250px;
+    border-radius: 9px;
+}
 
+.card {
+    display: flex;
+    padding: 30px;
+    border-bottom: 1px solid #918E9B;
+}
+.opis {
+    padding: 15px;
+}
+.gornji {
+    font-size: 10px;
+}
+.gornji a {
+    color: #918E9B;
+}
+.pokazivac {
+    color: #F55A5A;
+}
+.mesto {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.map {
+    margin-left: 10px;
+}
+.card h1 {
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+.o-lokaciji {
+    font-size: 12px;
+}
 
+/*---- responsive ----*/
+@media (max-width: 684px) {
+    .container {
+        width: 100%;
+        margin-top: 0;
+    }
 
-
-
-
-
-
-
-
+    .card {
+        flex-direction: column;
+        width: 100%;
+        padding: 10px;
+        justify-content: center;
+        align-items: center;
+    }
+    .slika {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .card h1 {
+        font-size: 20px;
+    }
+}
 
 
 
